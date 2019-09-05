@@ -1,3 +1,4 @@
-# coursera-machine-learning
-Coursera's Machine Learning by Andrew Ng
+#  Machine-learning Ng
+Machine Learning by Prof.Ng
+
 
